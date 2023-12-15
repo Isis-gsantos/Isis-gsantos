@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá! Meu nome é Isis, sou uma desenvolvedora Web Front End Júnior. 
+ Olá! Meu nome é Isis, sou uma desenvolvedora Web Front End Júnior. <br>
  Iniciei os estudos de forma autodidata e logo me encantei pelo Desenvolvimento Front End. Estou determinada a evoluir cada vez mais nesse campo fascinante e construir uma carreira sólida na área de programação. Estou aberta a oportunidades e colaborações que me permitam crescer.
 </p>
 
