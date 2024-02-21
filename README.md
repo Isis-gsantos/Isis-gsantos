@@ -5,7 +5,7 @@
  Iniciei os estudos de forma autodidata e logo me encantei pelo Desenvolvimento Front End. Estou determinada a evoluir cada vez mais nesse campo fascinante e construir uma carreira sólida na área de programação. Estou aberta a oportunidades e colaborações que me permitam crescer.
 
 - :nerd_face:Estou no curso **Dev Quest**
-- :desktop_computer:Atualmente estou aprendendo **Testes Automatizados de Software com Jest**
+- :desktop_computer:Atualmente estou aprendendo **Testes Automatizados de Software com Jest e React**
 - :open_book:Tenho **inglês** avançado (C1 Proeficient) e **espanhol** básico
 - :mailbox_with_mail:Como me contatar: **isisgsantos@gmail.com**
 <br>
@@ -18,6 +18,9 @@
 ![Git](https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 <br> <br>
 
 <p align="left">
