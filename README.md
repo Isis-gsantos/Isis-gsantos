@@ -4,10 +4,12 @@
  Olá! Meu nome é Isis, sou uma desenvolvedora Web Front End Júnior. <br>
  Iniciei os estudos de forma autodidata e logo me encantei pelo Desenvolvimento Front End. Estou determinada a evoluir cada vez mais nesse campo fascinante e construir uma carreira sólida na área de programação. Estou aberta a oportunidades e colaborações que me permitam crescer.
 
-- :nerd_face:Estou no curso **Dev Quest**
-- :desktop_computer:Atualmente estou aprendendo **Testes Automatizados de Software com Jest e React**
+- :nerd_face:Finalizei o curso **Dev Quest**
+- :desktop_computer:Atualmente estou aprendendo **Typescript**
 - :open_book:Tenho **inglês** avançado (C1 Proeficient) e **espanhol** básico
-- :mailbox_with_mail:Como me contatar: **isisgsantos@gmail.com**
+- 💌 Entre em contato: **isisgsantos@gmail.com**
+
+<a href="https://www.linkedin.com/in/isis-gon%C3%A7alves-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
 
 ## Linguagens :monocle_face:
@@ -19,20 +21,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <br> <br>
-
-<p align="left">
-  💌 Entre em contato: ⤵️
-</p>
-
-<p align="left">
-  <a href = "mailto: isissantos8425@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isis-gon%C3%A7alves-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-
-<br>
 
  <div>
    <a href="https://github.com/Isis-gsantos">
