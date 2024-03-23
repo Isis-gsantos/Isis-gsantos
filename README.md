@@ -5,7 +5,7 @@
  Iniciei os estudos de forma autodidata e logo me encantei pelo Desenvolvimento Front End. Estou determinada a evoluir cada vez mais nesse campo fascinante e construir uma carreira sólida na área de programação. Estou aberta a oportunidades e colaborações que me permitam crescer.
 
 - :nerd_face:Finalizei o curso **Dev Quest**
-- :desktop_computer:Atualmente estou aprendendo **Typescript**
+- :desktop_computer:Atualmente estou aprendendo **Node.js**
 - :open_book:Tenho **inglês** avançado (C1 Proeficient) e **espanhol** básico
 - 💌 Entre em contato: **isisgsantos@gmail.com**
 
