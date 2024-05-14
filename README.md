@@ -17,7 +17,7 @@
  - :open_book: **Inglês** avançado (C1 Proeficient), **Espanhol** básico e nativa em **Português** 
  - 💌 Entre em contato: **isisgsantos@gmail.com**
  
- <a href="https://www.linkedin.com/in/isis-gon%C3%A7alves-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/isis-goncalves-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
 <br>
 
