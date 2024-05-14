@@ -15,7 +15,7 @@
  - :nerd_face: Concluí o curso em Desenvolvimento Web **Dev Quest**, atualmente estou cursando **Formação Node.js** pela Udemy
  - :desktop_computer: Atualmente aprofundando meus conhecimentos em **Node.js** e **MySQL**
  - :open_book: **Inglês** avançado (C1 Proeficient), **Espanhol** básico e nativa em **Português** 
- - 💌 Entre em contato: **isisgsantos@gmail.com**
+ - 💌 Entre em contato: **isisgsantos8425@gmail.com**
  
  <a href="https://www.linkedin.com/in/isis-goncalves-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
